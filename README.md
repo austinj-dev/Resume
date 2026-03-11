@@ -2,7 +2,7 @@
 
 **AI Systems Engineer**
 
-austin_johnnic@sovyren.com | 51 Elmwood Dr, Naperville, IL 60540 | [linkedin.com/in/a-johnnic](https://linkedin.com/in/a-johnnic)
+austin_johnnic@sovyren.com | [linkedin.com/in/a-johnnic](https://linkedin.com/in/a-johnnic)
 
 [github.com/austinj-dev](https://github.com/austinj-dev) | [sovyren.com](https://sovyren.com) | [usevera.cloud](https://usevera.cloud) | [useessentials.cloud](https://useessentials.cloud)
 
@@ -33,7 +33,7 @@ AI systems engineer and founder of **Sovyren Inc.**, building enterprise-grade s
 ## Experience
 
 ### Founder & AI Systems Engineer — Sovyren Inc.
-**2025 – Present** | Naperville, IL
+**2025 – Present** | Chicago, IL
 
 - Founded an R&D lab for applied AI and enterprise software. Sole architect and developer of a portfolio of SaaS products — responsible for systems architecture, database design, backend infrastructure, frontend development, AI systems, security posture, and product strategy.
 
